@@ -1,0 +1,22 @@
+.container {
+    height: calc(100vh - 68px);
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+.close-button {
+    margin-right: 10px;
+}
+
+mat-card-title {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(69, 69, 209);
+}
+
+.border-style {
+    border: inset 2px rgb(69, 69, 209);
+}

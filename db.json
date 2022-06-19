@@ -1,0 +1,414 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "usersList": [
+    {
+      "id": 1,
+      "firstName": "Levani",
+      "lastName": "Kvaracxelia",
+      "personalNo": "01001074600",
+      "email": "levanikvaracxelia@gmail.com",
+      "dateOfBirth": "2001-01-21T20:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "firstName": "Ana",
+      "lastName": "Badurashvili",
+      "personalNo": "01258796314",
+      "email": "anabadurashvili@mail.ru",
+      "dateOfBirth": "1995-06-29T19:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "firstName": "Giorgi",
+      "lastName": "Khutsishvili",
+      "personalNo": "54789567416",
+      "email": "giorgikhutsishvili@gmail.com",
+      "dateOfBirth": "1990-04-25T19:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "firstName": "Nino",
+      "lastName": "Kubaneishvili",
+      "personalNo": "14556688795",
+      "email": "kubaneishvilinino@gmail.com",
+      "dateOfBirth": "1990-05-22T19:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "firstName": "Irakli",
+      "lastName": "Leqvinadze",
+      "personalNo": "57896547812",
+      "email": "iraklileqvinadze@gmail.com",
+      "dateOfBirth": "1997-08-15T19:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "firstName": "Anano",
+      "lastName": "Mamukashvili",
+      "personalNo": "57894145786",
+      "email": "ananoMamukashvili@gail.com",
+      "dateOfBirth": "1996-09-24T19:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "firstName": "Koba",
+      "lastName": "Burchuladze",
+      "personalNo": "78546123897",
+      "email": "kobaburchuladze@gmail.com",
+      "dateOfBirth": "1979-08-08T20:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "firstName": "Lulu",
+      "lastName": "Loladze",
+      "personalNo": "78951452631",
+      "email": "loladzelulu@gmail.com",
+      "dateOfBirth": "1999-01-10T20:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "firstName": "Irakli",
+      "lastName": "Makalatia",
+      "personalNo": "01020547893",
+      "email": "makalatiairakli@gmail.com",
+      "dateOfBirth": "2003-07-08T19:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "firstName": "Mariam",
+      "lastName": "Barabadze",
+      "personalNo": "01125487918",
+      "email": "barabadzemariam@gmail.com",
+      "dateOfBirth": "1992-12-23T21:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "firstName": "Dato",
+      "lastName": "Mgeladze",
+      "personalNo": "87963475156",
+      "email": "geladzedato@mail.ru",
+      "dateOfBirth": "2005-02-10T21:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "firstName": "Nino",
+      "lastName": "Bigvava",
+      "personalNo": "78965412577",
+      "email": "bigvavanino@mail.ru",
+      "dateOfBirth": "1979-02-06T20:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "firstName": "Mariam",
+      "lastName": "Makharadze",
+      "personalNo": "78965412578",
+      "email": "maxaradzemariam@gmail.com",
+      "dateOfBirth": "1992-07-31T20:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "firstName": "Natia",
+      "lastName": "Nemsadze",
+      "personalNo": "01025647896",
+      "email": "natianemsadze@gmail.com",
+      "dateOfBirth": "1995-04-06T19:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "firstName": "Natia",
+      "lastName": "Maminashvili",
+      "personalNo": "78954612365",
+      "email": "maminashvilinatia@mail.ru",
+      "dateOfBirth": "1997-12-05T20:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "firstName": "Nino",
+      "lastName": "kejerashvili",
+      "personalNo": "789546321475",
+      "email": "kejerashvilinino@gmail.com",
+      "dateOfBirth": "1975-11-04T20:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "firstName": "Badri",
+      "lastName": "Kobalava",
+      "personalNo": "01965478512",
+      "email": "badrikobalava@mail.com",
+      "dateOfBirth": "1975-06-28T20:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "firstName": "Maka",
+      "lastName": "Makhashvili",
+      "personalNo": "14789564274",
+      "email": "maxashvilimak@mail.com",
+      "dateOfBirth": "1993-08-05T20:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "firstName": "mamuka",
+      "lastName": "chepxodze",
+      "personalNo": "01456879652",
+      "email": "mamukachepxodze@gmail.com",
+      "dateOfBirth": "1989-12-05T20:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "firstName": "Tamuna",
+      "lastName": "Modebadze",
+      "personalNo": "01059874612",
+      "email": "modebadzetamuna@mail.com",
+      "dateOfBirth": "1996-05-02T19:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "firstName": "Giorgi",
+      "lastName": "Mamukashvili",
+      "personalNo": "14586971254",
+      "email": "giorgimamukashvili@gmail.com",
+      "dateOfBirth": "1990-08-31T19:00:00.000Z"
+    },
+    {
+      "id": 22,
+      "firstName": "Beqa",
+      "lastName": "Lobjanidze",
+      "personalNo": "78964123674",
+      "email": "beqalobjanidze@gmail.com",
+      "dateOfBirth": "1986-12-08T20:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "firstName": "Natia",
+      "lastName": "Tatriashvili",
+      "personalNo": "78945617458",
+      "email": "natiatatriashvili@mail.ru",
+      "dateOfBirth": "1980-01-04T20:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "firstName": "Mariam",
+      "lastName": "Koshadze",
+      "personalNo": "78945612547",
+      "email": "koshadzemariam@mail.ru",
+      "dateOfBirth": "1994-07-01T20:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "firstName": "Teona",
+      "lastName": "Kapanadze",
+      "personalNo": "78945614785",
+      "email": "kapanadzeteona@mail.ru",
+      "dateOfBirth": "1996-11-07T19:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "firstName": "Tamar",
+      "lastName": "Japaridze",
+      "personalNo": "78965412354",
+      "email": "tamarjaparidze@mail.ru",
+      "dateOfBirth": "1991-01-04T20:00:00.000Z"
+    },
+    {
+      "id": 27,
+      "firstName": "Nino",
+      "lastName": "Urotadze",
+      "personalNo": "01789541257",
+      "email": "ninourotadze@gmail.com",
+      "dateOfBirth": "1999-10-06T19:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "firstName": "Merab",
+      "lastName": "Gelovani",
+      "personalNo": "14789653214",
+      "email": "merabgelovani@gmail.com",
+      "dateOfBirth": "1998-05-05T19:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "firstName": "Maka",
+      "lastName": "Makhashvili",
+      "personalNo": "78965412378",
+      "email": "makamakhashvili@mail.com",
+      "dateOfBirth": "1997-01-07T19:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "firstName": "Bacho",
+      "lastName": "Qajaia",
+      "personalNo": "78965412354",
+      "email": "qajaiabacho@gmail.com",
+      "dateOfBirth": "1997-01-07T19:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "firstName": "Otar",
+      "lastName": "Tatishvili",
+      "personalNo": "14523647596",
+      "email": "otartatishvili@gmail.com",
+      "dateOfBirth": "1993-06-06T20:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "firstName": "Aleko",
+      "lastName": "Barabadze",
+      "personalNo": "14785632178",
+      "email": "alekobarabadze@gmail.com",
+      "dateOfBirth": "1983-09-07T19:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "firstName": "Tamar",
+      "lastName": "Zedgenidze",
+      "personalNo": "14568796312",
+      "email": "tamarzedgenidze@gmail.com",
+      "dateOfBirth": "1985-01-06T20:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "firstName": "Dato",
+      "lastName": "Dogonadze",
+      "personalNo": "14568974637",
+      "email": "dogonadzedato@mail.ru",
+      "dateOfBirth": "2000-01-10T20:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "firstName": "Lela",
+      "lastName": "Chachua",
+      "personalNo": "14523687964",
+      "email": "chachualela@gmail.com",
+      "dateOfBirth": "1993-12-04T21:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "firstName": "Salome",
+      "lastName": "Barkalaia",
+      "personalNo": "47896541235",
+      "email": "salomebarkalaia@gmail.com",
+      "dateOfBirth": "1993-11-04T21:00:00.000Z"
+    },
+    {
+      "id": 37,
+      "firstName": "Mamuka",
+      "lastName": "Shapaqidze",
+      "personalNo": "01456879631",
+      "email": "shapaqidzemamuka@mail.ru",
+      "dateOfBirth": "1993-12-04T21:00:00.000Z"
+    },
+    {
+      "id": 38,
+      "firstName": "Paata",
+      "lastName": "Burchuladze",
+      "personalNo": "01478965431",
+      "email": "paataburchuladze@gmail.com",
+      "dateOfBirth": "1985-11-10T20:00:00.000Z"
+    },
+    {
+      "id": 39,
+      "firstName": "Koba",
+      "lastName": "Pertaia",
+      "personalNo": "01457896321",
+      "email": "kobapertaia@mail.ru",
+      "dateOfBirth": "1986-09-24T19:00:00.000Z"
+    },
+    {
+      "id": 40,
+      "firstName": "Tamuna",
+      "lastName": "Gabiskiria",
+      "personalNo": "01456278963",
+      "email": "tamunagabiskiria@mail.ru",
+      "dateOfBirth": "1991-05-08T20:00:00.000Z"
+    },
+    {
+      "id": 41,
+      "firstName": "Michael",
+      "lastName": "Bolqvadze",
+      "personalNo": "01478965412",
+      "email": "bolqvadzemichael@gmail.com",
+      "dateOfBirth": "1989-01-10T20:00:00.000Z"
+    },
+    {
+      "id": 42,
+      "firstName": "Kato",
+      "lastName": "Kubaneishvili",
+      "personalNo": "01478965423",
+      "email": "kubaneishvilikato@mail.ru",
+      "dateOfBirth": "1993-11-08T21:00:00.000Z"
+    },
+    {
+      "id": 43,
+      "firstName": "Zaza",
+      "lastName": "Kilasonia",
+      "personalNo": "01478965412",
+      "email": "kilasoniazaza@gmail.com",
+      "dateOfBirth": "1998-05-10T19:00:00.000Z"
+    },
+    {
+      "id": 44,
+      "firstName": "Medea",
+      "lastName": "Mukbaniani",
+      "personalNo": "01789654123",
+      "email": "medeamukbaniani@gmail.com",
+      "dateOfBirth": "1990-08-02T19:00:00.000Z"
+    },
+    {
+      "id": 45,
+      "firstName": "Goderdzi",
+      "lastName": "Chokheli",
+      "personalNo": "01478951254",
+      "email": "goderdzichokheli@gmail.com",
+      "dateOfBirth": "1990-03-09T20:00:00.000Z"
+    },
+    {
+      "id": 46,
+      "firstName": "Levan",
+      "lastName": "Gigineishvili",
+      "personalNo": "01457896321",
+      "email": "levangigineishvili@gmail.com",
+      "dateOfBirth": "1993-11-06T21:00:00.000Z"
+    },
+    {
+      "id": 47,
+      "firstName": "Koba",
+      "lastName": "Dgebuadze",
+      "personalNo": "33001456786",
+      "email": "dgebuadzekoba@gmail.com",
+      "dateOfBirth": "1998-05-03T19:00:00.000Z"
+    },
+    {
+      "id": 48,
+      "firstName": "Tamar",
+      "lastName": "Davitadze",
+      "personalNo": "01456789631",
+      "email": "tamardavitadze@gmail.com",
+      "dateOfBirth": "1983-01-17T20:00:00.000Z"
+    },
+    {
+      "id": 49,
+      "firstName": "Buba",
+      "lastName": "Jakheli",
+      "personalNo": "14789645321",
+      "email": "bubajakheli@gmail.com",
+      "dateOfBirth": "2000-07-31T19:00:00.000Z"
+    },
+    {
+      "id": 50,
+      "firstName": "Beso",
+      "lastName": "Bolqvadze",
+      "personalNo": "01114789654",
+      "email": "bolqvadzebeso@gmail.com",
+      "dateOfBirth": "1990-01-31T20:00:00.000Z"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
