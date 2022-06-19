@@ -118,9 +118,7 @@ export class UserDetailComponent implements OnInit {
   addUser() {
     this.api.createUser(this.userForm.value).subscribe({
       next: (user) => {
-        this._snackBar.open('User successfully added', '', {
-          duration: 3000,
-        });
+        this._snackBar.open('User successfully added', '');
         this.onSaveComplete();
       },
       error: (user) => {

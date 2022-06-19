@@ -51,7 +51,7 @@ const CUSTOM_DATE_FORMATS = {
     {
       provide: MAT_SNACK_BAR_DEFAULT_OPTIONS,
       useValue: {
-        duration: 100000,
+        duration: 3000,
       },
     },
   ],
